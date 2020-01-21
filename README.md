@@ -1,5 +1,12 @@
 # Python-Flask-RESTful-API
 
+Dive right into developing complete, solid, production-ready REST APIs using Flask and popular extensions Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
+
+* Create resource-based, production-ready REST APIs using Flask and popular extensions;
+* Using SQLAlchemy to easily and efficiently store resources to a database; 
+* Handle seamless user authentication with advanced features like token refresh
+* Handle log-outs and prevent abuse in your REST APIs with JWT blacklisting
+* Understand the complex intricacies of deployments and performance of REST APIs.
 
 ## Changes
 
